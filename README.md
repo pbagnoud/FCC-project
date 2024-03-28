@@ -1,0 +1,1 @@
+Those are the projects ending freeCodeCamp's core curriculum. The aim of the verified certifications is to show my skills in data sciences; it also show my frustration with gitpod and my patience to redo the projects.
